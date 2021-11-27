@@ -31,7 +31,7 @@ https://devcenter.heroku.com/articles/free-dyno-hours#usage
 
 2、登陆好后，点击
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/snail007/goproxy-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/outlooky/goproxy-heroku)
 
 3、执行以下三个步骤，见下图：
 
